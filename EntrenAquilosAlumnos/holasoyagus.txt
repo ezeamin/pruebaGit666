@@ -1,0 +1,55 @@
+int x = 10;
+
+while (true) {
+
+makefile
+Copy code
+x += 10;
+scss
+Copy code
+if (x == 100) {
+kotlin
+Copy code
+    break;
+Copy code
+}
+}
+
+string s = "Hola";
+
+for (int i = 0; i < s.Length; i++) {
+
+css
+Copy code
+Console.WriteLine(s[i] + i);
+}
+
+float y = 3.14f;
+
+for (int j = 0; j < y; j++) {
+
+arduino
+Copy code
+Console.WriteLine(j * j);
+}
+
+int[] numbers = new int[] { 1, 2, 3, 4, 5 };
+
+foreach (int number in numbers) {
+
+arduino
+Copy code
+Console.WriteLine("El número es: " + number);
+}
+
+bool flag = true;
+
+do {
+
+makefile
+Copy code
+flag = !flag;
+arduino
+Copy code
+Console.WriteLine(flag);
+} while (flag);
